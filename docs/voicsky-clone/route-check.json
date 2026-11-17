@@ -1,0 +1,126 @@
+[
+  {
+    "route": "/",
+    "status": 200
+  },
+  {
+    "route": "/products/apex-75",
+    "status": 200
+  },
+  {
+    "route": "/products/atmos-87",
+    "status": 200
+  },
+  {
+    "route": "/products/echo",
+    "status": 200
+  },
+  {
+    "route": "/products/pulse",
+    "status": 200
+  },
+  {
+    "route": "/products/tune-65",
+    "status": 200
+  },
+  {
+    "route": "/products/nimbus-65",
+    "status": 200
+  },
+  {
+    "route": "/products/sky",
+    "status": 200
+  },
+  {
+    "route": "/products/sky-pro",
+    "status": 200
+  },
+  {
+    "route": "/products/cloud-s1-pro",
+    "status": 200
+  },
+  {
+    "route": "/products/cloud-s2-pro",
+    "status": 200
+  },
+  {
+    "route": "/products/aeros-pro",
+    "status": 200
+  },
+  {
+    "route": "/products/apex-75-reiko-edition",
+    "status": 200
+  },
+  {
+    "route": "/collections/all",
+    "status": 200
+  },
+  {
+    "route": "/collections/keyboard",
+    "status": 200
+  },
+  {
+    "route": "/collections/mouse",
+    "status": 200
+  },
+  {
+    "route": "/collections/mouse-pad",
+    "status": 200
+  },
+  {
+    "route": "/collections/frontpage",
+    "status": 200
+  },
+  {
+    "route": "/pages/contact",
+    "status": 200
+  },
+  {
+    "route": "/pages/where-to-buy",
+    "status": 200
+  },
+  {
+    "route": "/pages/global-sources-hong-kong-shows-2026",
+    "status": 200
+  },
+  {
+    "route": "/pages/pre-order-apex-75-reiko-edition",
+    "status": 200
+  },
+  {
+    "route": "/blogs/news",
+    "status": 200
+  },
+  {
+    "route": "/policies/privacy-policy",
+    "status": 200
+  },
+  {
+    "route": "/policies/terms-of-service",
+    "status": 200
+  },
+  {
+    "route": "/cart",
+    "status": 200
+  },
+  {
+    "route": "/checkout",
+    "status": 200
+  },
+  {
+    "route": "/order-complete",
+    "status": 200
+  },
+  {
+    "route": "/pages/about",
+    "status": 200
+  },
+  {
+    "route": "/blogs/news/demo",
+    "status": 200
+  },
+  {
+    "route": "/search?q=tune",
+    "status": 200
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "accent": "#67c9ff",
+  "light": "#f5f5f7",
+  "dark": "#161616",
+  "ink": "#1d1d1f",
+  "radius": [
+    20,
+    24
+  ],
+  "mobileBreakpoint": 750,
+  "font": "Be Vietnam Pro",
+  "modelFont": "Gridular",
+  "heroDurationMs": 14000
+}

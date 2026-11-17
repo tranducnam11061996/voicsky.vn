@@ -1,0 +1,9 @@
+﻿component,trigger,result
+hero,thumbnail / next / previous,active slide changes
+product,discover,hero changes to information
+structure,accordion,image and description change
+specification,tab,active specification panel
+cart,quantity,line and total update
+checkout,valid submit,session receipt and cart clear
+search,submit,local catalog search
+audio,play / seek,single active audio

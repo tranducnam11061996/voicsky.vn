@@ -1,0 +1,674 @@
+[
+  {
+    "id": "partner:0",
+    "name": "QC SUPPLIES",
+    "country": "HK",
+    "types": "distributor",
+    "links": [
+      {
+        "label": "Visit website",
+        "url": "https://qcsupplieshk.com/"
+      }
+    ]
+  },
+  {
+    "id": "partner:1",
+    "name": "SUN CYCLE SDN. BHD.",
+    "country": "MY",
+    "types": "distributor",
+    "links": [
+      {
+        "label": "Visit website",
+        "url": "https://www.suncycle.com.my/"
+      }
+    ]
+  },
+  {
+    "id": "partner:2",
+    "name": "GOODGAMINGSHOP",
+    "country": "ID",
+    "types": "retailer",
+    "links": [
+      {
+        "label": "Visit website",
+        "url": "https://www.goodgamingshop.com/"
+      }
+    ]
+  },
+  {
+    "id": "partner:3",
+    "name": "Mastex Corporation Pty Ltd",
+    "country": "AU",
+    "types": "distributor",
+    "links": [
+      {
+        "label": "Visit website",
+        "url": "https://mastex.com.au/"
+      }
+    ]
+  },
+  {
+    "id": "partner:4",
+    "name": "Centre Com",
+    "country": "AU",
+    "types": "ecommerce",
+    "links": [
+      {
+        "label": "Online store",
+        "url": "https://www.centrecom.com.au/keyboards?q=voicsky"
+      }
+    ]
+  },
+  {
+    "id": "partner:5",
+    "name": "Scorptec",
+    "country": "AU",
+    "types": "ecommerce",
+    "links": [
+      {
+        "label": "Online store",
+        "url": "https://www.scorptec.com.au/search/go?w=voicsky&view=grid&cnt=30"
+      }
+    ]
+  },
+  {
+    "id": "partner:6",
+    "name": "JB Hi-Fi",
+    "country": "AU",
+    "types": "ecommerce",
+    "links": [
+      {
+        "label": "Online store",
+        "url": "https://www.jbhifi.com.au/search?query=voicsky"
+      }
+    ]
+  },
+  {
+    "id": "partner:7",
+    "name": "Keydom",
+    "country": "AU",
+    "types": "ecommerce",
+    "links": [
+      {
+        "label": "Online store",
+        "url": "https://www.keydomshop.com.au/collections/voicsky"
+      }
+    ]
+  },
+  {
+    "id": "partner:8",
+    "name": "Umart",
+    "country": "AU",
+    "types": "ecommerce",
+    "links": [
+      {
+        "label": "Online store",
+        "url": "https://www.umart.com.au/search.php?cat_id=&keywords=voicsky"
+      }
+    ]
+  },
+  {
+    "id": "partner:9",
+    "name": "Tech Dynamic Pte Ltd",
+    "country": "SG",
+    "types": "distributor",
+    "links": [
+      {
+        "label": "Visit website",
+        "url": "https://www.tech-dynamic.com/"
+      }
+    ]
+  },
+  {
+    "id": "partner:10",
+    "name": "JT Photoworld, Inc",
+    "country": "PH",
+    "types": "distributor",
+    "links": [
+      {
+        "label": "Visit website",
+        "url": "https://www.facebook.com/jtphotoworld/"
+      }
+    ]
+  },
+  {
+    "id": "partner:11",
+    "name": "2000 FUN LIMITED",
+    "country": "HK",
+    "types": "retailer",
+    "links": [
+      {
+        "label": "Online store",
+        "url": "https://www.openshop.com.hk/search?keyword=VOICSKY"
+      },
+      {
+        "label": "+852 2440 4433",
+        "url": "tel:+85224404433"
+      },
+      {
+        "label": "+852 2498 3168",
+        "url": "tel:+85224983168"
+      },
+      {
+        "label": "+852 2443 3833",
+        "url": "tel:+85224433833"
+      },
+      {
+        "label": "+852 2708 3123",
+        "url": "tel:+85227083123"
+      },
+      {
+        "label": "+852 2117 8909",
+        "url": "tel:+85221178909"
+      },
+      {
+        "label": "+852 2332 0343",
+        "url": "tel:+85223320343"
+      }
+    ]
+  },
+  {
+    "id": "partner:12",
+    "name": "SUNTEK COMPUTER",
+    "country": "HK",
+    "types": "retailer",
+    "links": [
+      {
+        "label": "+852 2386 8403",
+        "url": "tel:+85223868403"
+      }
+    ]
+  },
+  {
+    "id": "partner:13",
+    "name": "PRO SHOP LIMITED 魂機之魂",
+    "country": "HK",
+    "types": "retailer",
+    "links": [
+      {
+        "label": "+852 9497 4131",
+        "url": "tel:+85294974131"
+      }
+    ]
+  },
+  {
+    "id": "partner:14",
+    "name": "LXPC",
+    "country": "HK",
+    "types": "retailer",
+    "links": [
+      {
+        "label": "+852 5228 2730",
+        "url": "tel:+85252282730"
+      },
+      {
+        "label": "Visit store",
+        "url": "https://longxin-pc.com/collections/%E9%8D%B5%E7%9B%A4"
+      }
+    ]
+  },
+  {
+    "id": "partner:15",
+    "name": "OMG ESPORTS LIMITED",
+    "country": "HK",
+    "types": "retailer",
+    "links": [
+      {
+        "label": "+852 6936 4158",
+        "url": "tel:+85269364158"
+      },
+      {
+        "label": "Visit store",
+        "url": "https://esportsomg.com/search?q=VOICSKY&type=product&options%5Bsort_by%5D=price-descending"
+      }
+    ]
+  },
+  {
+    "id": "partner:16",
+    "name": "PEGASUS COMPUTER LIMITED",
+    "country": "HK",
+    "types": "retailer",
+    "links": [
+      {
+        "label": "+852 9540 8014",
+        "url": "tel:+85295408014"
+      },
+      {
+        "label": "Visit store",
+        "url": "https://shop.pegasus.hk/search?searchKey=voicsky"
+      }
+    ]
+  },
+  {
+    "id": "partner:17",
+    "name": "MANVO TECH LIMITED",
+    "country": "HK",
+    "types": "retailer",
+    "links": [
+      {
+        "label": "+852 9030 8610",
+        "url": "tel:+85290308610"
+      }
+    ]
+  },
+  {
+    "id": "partner:18",
+    "name": "APEX DIGITAL COMPANY LIMITED",
+    "country": "MO",
+    "types": "retailer",
+    "links": [
+      {
+        "label": "+853 6695 0119",
+        "url": "tel:+85366950119"
+      }
+    ]
+  },
+  {
+    "id": "partner:19",
+    "name": "澳豪科技OuHou",
+    "country": "MO",
+    "types": "retailer",
+    "links": [
+      {
+        "label": "+853 6354 6771",
+        "url": "tel:+85363546771"
+      }
+    ]
+  },
+  {
+    "id": "partner:20",
+    "name": "VOICSKY Official Store - Malaysia",
+    "country": "MY",
+    "types": "ecommerce",
+    "links": [
+      {
+        "label": "Shopee ↗",
+        "url": "https://shopee.com.my/voicsky"
+      }
+    ]
+  },
+  {
+    "id": "partner:21",
+    "name": "Just IT Technology",
+    "country": "MY",
+    "types": "retailer",
+    "links": [
+      {
+        "label": "Shopee ↗",
+        "url": "https://shopee.com.my/jitechnology"
+      }
+    ]
+  },
+  {
+    "id": "partner:22",
+    "name": "ALL IT Hypermarket",
+    "country": "MY",
+    "types": "retailer",
+    "links": [
+      {
+        "label": "Online store",
+        "url": "https://www.allithypermarket.com.my/"
+      },
+      {
+        "label": "Shopee ↗",
+        "url": "https://shopee.com.my/all_it.os"
+      },
+      {
+        "label": "+60 3-2704 6672",
+        "url": "tel:+60327046672"
+      },
+      {
+        "label": "+60 3-7958 2636",
+        "url": "tel:+60379582636"
+      },
+      {
+        "label": "+60 3-7725 2468",
+        "url": "tel:+60377252468"
+      },
+      {
+        "label": "+60 3-2703 4565",
+        "url": "tel:+60327034565"
+      },
+      {
+        "label": "+60 3-8213 2736",
+        "url": "tel:+60382132736"
+      },
+      {
+        "label": "+60 3-7490 2165",
+        "url": "tel:+60374902165"
+      },
+      {
+        "label": "+60 3-5891 4824",
+        "url": "tel:+60358914824"
+      },
+      {
+        "label": "+60 3-7612 5135",
+        "url": "tel:+60376125135"
+      },
+      {
+        "label": "+60 3-8080 1716",
+        "url": "tel:+60380801716"
+      },
+      {
+        "label": "+60 3-2011 8941",
+        "url": "tel:+60320118941"
+      },
+      {
+        "label": "+60 3-2303 5935",
+        "url": "tel:+60323035935"
+      },
+      {
+        "label": "+60 3-2333 9211",
+        "url": "tel:+60323339211"
+      },
+      {
+        "label": "+60 3-4143 8869",
+        "url": "tel:+60341438869"
+      },
+      {
+        "label": "+60 3-6730 9735",
+        "url": "tel:+60367309735"
+      },
+      {
+        "label": "Official store directory ↗",
+        "url": "https://www.allithypermarket.com.my/pages/store-location"
+      }
+    ]
+  },
+  {
+    "id": "partner:23",
+    "name": "Viewnet Flagship Store",
+    "country": "MY",
+    "types": "retailer",
+    "links": [
+      {
+        "label": "Shopee ↗",
+        "url": "https://shopee.com.my/viewnet.os"
+      }
+    ]
+  },
+  {
+    "id": "partner:24",
+    "name": "C-Zone Flagship Store",
+    "country": "MY",
+    "types": "retailer",
+    "links": [
+      {
+        "label": "Online store",
+        "url": "https://czone.my/czone/vsky-apex-75-reiko.html"
+      }
+    ]
+  },
+  {
+    "id": "partner:25",
+    "name": "PC-Image Computer Store",
+    "country": "MY",
+    "types": "retailer",
+    "links": [
+      {
+        "label": "Online store",
+        "url": "https://store.pcimage.com.my/"
+      },
+      {
+        "label": "Shopee ↗",
+        "url": "https://shopee.com.my/pcimage"
+      },
+      {
+        "label": "Lazada ↗",
+        "url": "https://www.lazada.com.my/shop/pc-image/"
+      },
+      {
+        "label": "+60 3-41311109",
+        "url": "tel:+60341311109"
+      },
+      {
+        "label": "+60 3-21459722",
+        "url": "tel:+60321459722"
+      },
+      {
+        "label": "+60 3-79566888",
+        "url": "tel:+60379566888"
+      },
+      {
+        "label": "+60 7-3362078",
+        "url": "tel:+6073362078"
+      },
+      {
+        "label": "+60 7-3360007",
+        "url": "tel:+6073360007"
+      },
+      {
+        "label": "+60 4-3732192",
+        "url": "tel:+6043732192"
+      },
+      {
+        "label": "+60 5-2460637",
+        "url": "tel:+6052460637"
+      },
+      {
+        "label": "+60 6-2889641",
+        "url": "tel:+6062889641"
+      },
+      {
+        "label": "+60 11-45389912",
+        "url": "tel:+601145389912"
+      },
+      {
+        "label": "+60 85-439732",
+        "url": "tel:+6085439732"
+      },
+      {
+        "label": "+60 86-312315",
+        "url": "tel:+6086312315"
+      },
+      {
+        "label": "+60 84-313237",
+        "url": "tel:+6084313237"
+      },
+      {
+        "label": "+60 82-577503",
+        "url": "tel:+6082577503"
+      },
+      {
+        "label": "+60 82-659573",
+        "url": "tel:+6082659573"
+      },
+      {
+        "label": "+60 82-246503",
+        "url": "tel:+6082246503"
+      },
+      {
+        "label": "+60 82-263776",
+        "url": "tel:+6082263776"
+      },
+      {
+        "label": "+60 82-239059",
+        "url": "tel:+6082239059"
+      },
+      {
+        "label": "+60 82-751092",
+        "url": "tel:+6082751092"
+      },
+      {
+        "label": "+60 82-422939",
+        "url": "tel:+6082422939"
+      },
+      {
+        "label": "+60 16-6078979",
+        "url": "tel:+60166078979"
+      },
+      {
+        "label": "+60 8-7332918",
+        "url": "tel:+6087332918"
+      },
+      {
+        "label": "+60 89-776262",
+        "url": "tel:+6089776262"
+      },
+      {
+        "label": "+60 88-663508",
+        "url": "tel:+6088663508"
+      },
+      {
+        "label": "+60 88-235330",
+        "url": "tel:+6088235330"
+      },
+      {
+        "label": "Official store directory ↗",
+        "url": "https://pcimage.com.my/outlets/"
+      }
+    ]
+  },
+  {
+    "id": "partner:26",
+    "name": "DotaTech Technology PLT",
+    "country": "MY",
+    "types": "retailer",
+    "links": [
+      {
+        "label": "Online store",
+        "url": "https://www.dotatech.com.my/"
+      },
+      {
+        "label": "Shopee ↗",
+        "url": "https://shopee.com.my/dotatech"
+      }
+    ]
+  },
+  {
+    "id": "partner:27",
+    "name": "Brightstar Computer",
+    "country": "MY",
+    "types": "retailer",
+    "links": [
+      {
+        "label": "Online store",
+        "url": "https://brightstarcomp.com/"
+      },
+      {
+        "label": "Shopee ↗",
+        "url": "https://shopee.com.my/brightstarcomputer"
+      }
+    ]
+  },
+  {
+    "id": "partner:28",
+    "name": "TMT By Thundermatch",
+    "country": "MY",
+    "types": "retailer",
+    "links": [
+      {
+        "label": "Online store",
+        "url": "https://www.tmt.my/"
+      },
+      {
+        "label": "Shopee ↗",
+        "url": "https://shopee.com.my/tmt.os"
+      },
+      {
+        "label": "+60 3-2201 3429",
+        "url": "tel:+60322013429"
+      },
+      {
+        "label": "+60 3-2710 8695",
+        "url": "tel:+60327108695"
+      },
+      {
+        "label": "+60 3-2276 2832",
+        "url": "tel:+60322762832"
+      },
+      {
+        "label": "+60 3-8082 4561",
+        "url": "tel:+60380824561"
+      },
+      {
+        "label": "+60 3-4144 4720",
+        "url": "tel:+60341444720"
+      },
+      {
+        "label": "+60 10-306 8632",
+        "url": "tel:+60103068632"
+      },
+      {
+        "label": "+60 3-3359 0596",
+        "url": "tel:+60333590596"
+      },
+      {
+        "label": "+60 3-6420 9325",
+        "url": "tel:+60364209325"
+      },
+      {
+        "label": "+60 3-9544 1739",
+        "url": "tel:+60395441739"
+      },
+      {
+        "label": "+60 3-7732 4649",
+        "url": "tel:+60377324649"
+      },
+      {
+        "label": "+60 3-5612 8311",
+        "url": "tel:+60356128311"
+      },
+      {
+        "label": "+60 3-8959 8853",
+        "url": "tel:+60389598853"
+      },
+      {
+        "label": "+60 4-604 6906",
+        "url": "tel:+6046046906"
+      },
+      {
+        "label": "+60 4-295 4243",
+        "url": "tel:+6042954243"
+      },
+      {
+        "label": "+60 9-744 9332",
+        "url": "tel:+6097449332"
+      },
+      {
+        "label": "+60 9-864 0532",
+        "url": "tel:+6098640532"
+      },
+      {
+        "label": "+60 9-531 5892",
+        "url": "tel:+6095315892"
+      },
+      {
+        "label": "+60 6-775 1005",
+        "url": "tel:+6067751005"
+      },
+      {
+        "label": "+60 6-764 9686",
+        "url": "tel:+6067649686"
+      },
+      {
+        "label": "+60 7-338 4132",
+        "url": "tel:+6073384132"
+      },
+      {
+        "label": "+60 82-263 932",
+        "url": "tel:+6082263932"
+      },
+      {
+        "label": "Official store directory ↗",
+        "url": "https://www.tmt.my/pages/outlets"
+      }
+    ]
+  },
+  {
+    "id": "partner:29",
+    "name": "Impulse Gaming",
+    "country": "MY",
+    "types": "retailer",
+    "links": [
+      {
+        "label": "Online store",
+        "url": "https://www.impulse.com.my/"
+      },
+      {
+        "label": "Shopee ↗",
+        "url": "https://shopee.com.my/impulse.gaming"
+      }
+    ]
+  }
+]

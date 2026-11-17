@@ -1,0 +1,842 @@
+[
+  {
+    "id": "partner:0:0",
+    "partner_id": "partner:0",
+    "name": "QC SUPPLIES",
+    "address": "Unit 1005, 10/F Join-In Hang Sing Centre, 2-16 Kwai Fung Crescent, Kwai Fong N.T., Hong Kong",
+    "lat": "22.355024",
+    "lon": "114.1251471"
+  },
+  {
+    "id": "partner:1:0",
+    "partner_id": "partner:1",
+    "name": "SUN CYCLE SDN. BHD.",
+    "address": "No.5, COMPASS @ Kota Seri Langat Kuala Langat, Kawasan Perindustrian Jalan Atma 1, Persiaran Kota Seri Langat, 42700 Banting, Selangor",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "id": "partner:2:0",
+    "partner_id": "partner:2",
+    "name": "GOODGAMINGSHOP",
+    "address": "Ruko Mangga 2 Mall No.45A Ruko Mangga Dua mall, Deretan Bank Panin, RT.1/RW.12, South Mangga Dua, Sawah Besar, Jakarta 10730",
+    "lat": "-6.1371465",
+    "lon": "106.8238857"
+  },
+  {
+    "id": "partner:3:0",
+    "partner_id": "partner:3",
+    "name": "Mastex Corporation Pty Ltd",
+    "address": "12/163-179 Forster Road Mount Waverley, Victoria, 3149 Australia",
+    "lat": "-37.8993306",
+    "lon": "145.1280114"
+  },
+  {
+    "id": "partner:9:0",
+    "partner_id": "partner:9",
+    "name": "Tech Dynamic Pte Ltd",
+    "address": "514 Chai Chee Ln, #05-09, Singapore 469029",
+    "lat": "1.3310031",
+    "lon": "103.9183984"
+  },
+  {
+    "id": "partner:10:0",
+    "partner_id": "partner:10",
+    "name": "JT Photoworld, Inc",
+    "address": "1434 General Luna StPaco Manila, Metro Manila Philippines",
+    "lat": "14.579823523",
+    "lon": "120.99018024"
+  },
+  {
+    "id": "partner:11:0",
+    "partner_id": "partner:11",
+    "name": "觀塘店",
+    "address": "觀塘店 九龍觀塘觀塘道436-484號官塘工業中心4期二樓H室 +852 2440 4433",
+    "lat": "22.3107843",
+    "lon": "114.2276136"
+  },
+  {
+    "id": "partner:11:1",
+    "partner_id": "partner:11",
+    "name": "荃灣店",
+    "address": "荃灣店 新界荃灣西樓角路138-168號地下A7A鋪 +852 2498 3168",
+    "lat": "22.3721218",
+    "lon": "114.1191967"
+  },
+  {
+    "id": "partner:11:2",
+    "partner_id": "partner:11",
+    "name": "元朗店",
+    "address": "元朗店 新界元朗教育路15-19號嘉城廣場2樓2032-2033號鋪 +852 2443 3833",
+    "lat": "22.44283",
+    "lon": "114.02724"
+  },
+  {
+    "id": "partner:11:3",
+    "partner_id": "partner:11",
+    "name": "深水埗店",
+    "address": "深水埗店 九龍深水埗 Yen Chow St, 94號高登電腦商場43號舖 +852 2708 3123",
+    "lat": "22.331995",
+    "lon": "114.1623956"
+  },
+  {
+    "id": "partner:11:4",
+    "partner_id": "partner:11",
+    "name": "天水圍店",
+    "address": "天水圍店 新界天水圍天華路 T Town, S209A南翼 2樓S209B 及 S210號舖 +852 2117 8909",
+    "lat": "22.4613805",
+    "lon": "113.9980769"
+  },
+  {
+    "id": "partner:11:5",
+    "partner_id": "partner:11",
+    "name": "灣仔店",
+    "address": "灣仔店 香港香港島灣仔軒尼詩道130號灣仔電腦城2樓202-204室 +852 2332 0343",
+    "lat": "22.2772889",
+    "lon": "114.1730116"
+  },
+  {
+    "id": "partner:12:0",
+    "partner_id": "partner:12",
+    "name": "SUNTEK COMPUTER",
+    "address": "深水埗黃金大廈購物中心LG/F, 43A",
+    "lat": "22.3320158",
+    "lon": "114.1620314"
+  },
+  {
+    "id": "partner:13:0",
+    "partner_id": "partner:13",
+    "name": "PRO SHOP LIMITED 魂機之魂",
+    "address": "深水埗高登電腦廣場1樓23號舖",
+    "lat": "22.331995",
+    "lon": "114.1623956"
+  },
+  {
+    "id": "partner:14:0",
+    "partner_id": "partner:14",
+    "name": "LXPC",
+    "address": "元朗教育路19號嘉城廣場一樓1091號舖",
+    "lat": "22.44283",
+    "lon": "114.02724"
+  },
+  {
+    "id": "partner:15:0",
+    "partner_id": "partner:15",
+    "name": "OMG ESPORTS LIMITED",
+    "address": "長沙灣道742號鴻昌工廠大廈3/F A室",
+    "lat": "22.3387861",
+    "lon": "114.1514605"
+  },
+  {
+    "id": "partner:16:0",
+    "partner_id": "partner:16",
+    "name": "PEGASUS COMPUTER LIMITED",
+    "address": "九龍荔枝角長順街19號楊耀松（第六）工業大廈5樓A室",
+    "lat": "22.3358891",
+    "lon": "114.1468589"
+  },
+  {
+    "id": "partner:17:0",
+    "partner_id": "partner:17",
+    "name": "MANVO TECH LIMITED",
+    "address": "灣仔電腦城1樓144-145鋪",
+    "lat": "22.2772889",
+    "lon": "114.1730116"
+  },
+  {
+    "id": "partner:18:0",
+    "partner_id": "partner:18",
+    "name": "APEX DIGITAL COMPANY LIMITED",
+    "address": "祐漢市場街206-216號ISQUARE美蓮電腦廣場BZ.CA.BW.BX.BY鋪",
+    "lat": "22.2111411",
+    "lon": "113.553079"
+  },
+  {
+    "id": "partner:19:0",
+    "partner_id": "partner:19",
+    "name": "澳豪科技OuHou",
+    "address": "澳門黑沙環馬路BJ,BL,BM鋪利盛閣百佳同創匯上1樓",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "id": "partner:21:0",
+    "partner_id": "partner:21",
+    "name": "Brem Mall — Digital Centre",
+    "address": "Brem Mall — Digital Centre Lot L3-13-14 Third Floor, Digital Centre, Brem Mall, Jln Kepong, Jinjang Selatan, 52000 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+    "lat": "3.2045106",
+    "lon": "101.6674478"
+  },
+  {
+    "id": "partner:22:0",
+    "partner_id": "partner:22",
+    "name": "Plaza Low Yat",
+    "address": "Plaza Low Yat Lot 3-IT-19, 3rd Floor, Low Yat Plaza, No 7, Jln 1/77, Off Jln Bukit Bintang, 55100 Kuala Lumpur. +60 3-2704 6672",
+    "lat": "3.1440152",
+    "lon": "101.7103286"
+  },
+  {
+    "id": "partner:22:1",
+    "partner_id": "partner:22",
+    "name": "Digital Mall Sec 14, PJ",
+    "address": "Digital Mall Sec 14, PJ Lot 3-01, 3rd Floor, Digital Mall, No.2, Jln 14/20 Sec 14, 46100 Petaling Jaya, Selangor. +60 3-7958 2636",
+    "lat": "3.1091305",
+    "lon": "101.6363548"
+  },
+  {
+    "id": "partner:22:2",
+    "partner_id": "partner:22",
+    "name": "IPC Shopping Centre",
+    "address": "IPC Shopping Centre L1.05, Level 1, IPC Shopping Centre, No.2, Jalan PJU 7/2, Mutiara Damansara, 47800 Petaling Jaya, Selangor. +60 3-7725 2468",
+    "lat": "3.1561971",
+    "lon": "101.6107438"
+  },
+  {
+    "id": "partner:22:3",
+    "partner_id": "partner:22",
+    "name": "Suria KLCC",
+    "address": "Suria KLCC Lot LC306-307, Level 3, Suria KLCC, Kuala Lumpur City Centre, 50088 Kuala Lumpur. +60 3-2703 4565",
+    "lat": "3.1571746",
+    "lon": "101.7119605"
+  },
+  {
+    "id": "partner:22:4",
+    "partner_id": "partner:22",
+    "name": "IOI City Mall, Putrajaya",
+    "address": "IOI City Mall, Putrajaya Lot 2-62, 2nd Floor, iOi City Mall, Lebuh IRC, IOI Resort City, 62502 Putrajaya, Malaysia. +60 3-8213 2736",
+    "lat": "2.9677947",
+    "lon": "101.7160002"
+  },
+  {
+    "id": "partner:22:5",
+    "partner_id": "partner:22",
+    "name": "MyTOWN Shopping Centre",
+    "address": "MyTOWN Shopping Centre Lot No.L3-016, Level 3, MyTOWN Shopping Centre, 6, Jalan Cochrane, Seksyen 90, 55100 Kuala Lumpur. +60 3-7490 2165",
+    "lat": "3.1351627",
+    "lon": "101.7228515"
+  },
+  {
+    "id": "partner:22:6",
+    "partner_id": "partner:22",
+    "name": "Central I-City, Shah Alam",
+    "address": "Central I-City, Shah Alam Lot No.L2-04, Level 2, Central i-City, Plot 1, Persiaran Multimedia, Seksyen 7, 40000 Shah Alam, Selangor Darul Ehsan. +60 3-5891 4824",
+    "lat": "3.062628",
+    "lon": "101.4814823"
+  },
+  {
+    "id": "partner:22:7",
+    "partner_id": "partner:22",
+    "name": "1 Utama Shopping Centre",
+    "address": "1 Utama Shopping Centre Lot LG101, 1 Utama Shopping Centre, No.1, Lebuh Bandar Utama, Bandar Utama, 47800, Selangor +60 3-7612 5135",
+    "lat": "3.1481679",
+    "lon": "101.6166703"
+  },
+  {
+    "id": "partner:22:8",
+    "partner_id": "partner:22",
+    "name": "IOI Mall, Puchong",
+    "address": "IOI Mall, Puchong Lot S18, Second Floor, iOi Mall Batu 9, Jalan Puchong, Bandar Puchong Jaya, 47170 Puchong, Selangor. +60 3-8080 1716",
+    "lat": "3.0449441",
+    "lon": "101.6180882"
+  },
+  {
+    "id": "partner:22:9",
+    "partner_id": "partner:22",
+    "name": "Pavilion Damansara Heights",
+    "address": "Pavilion Damansara Heights Lot 4.23, Level 4, Pavilion Damansara Heights 3, Jalan Damanlela 50490 Kuala Lumpur +60 3-2011 8941",
+    "lat": "3.1465827",
+    "lon": "101.6628507"
+  },
+  {
+    "id": "partner:22:10",
+    "partner_id": "partner:22",
+    "name": "Mid Valley Megamall",
+    "address": "Mid Valley Megamall Lot No.S-091, Second Floor, Mid Valley Megamall, Mid Valley City, Lingkaran Syed Putra, 59200 Kuala Lumpur. +60 3-2303 5935",
+    "lat": "3.1196641",
+    "lon": "101.6775002"
+  },
+  {
+    "id": "partner:22:11",
+    "partner_id": "partner:22",
+    "name": "Sunway Velocity Mall",
+    "address": "Sunway Velocity Mall Lot 3-08, 3rd Floor, Sunway Velocity Mall, Lingkaran SV, Sunway Velocity, 55100 Kuala Lumpur. +60 3-2333 9211",
+    "lat": "3.1280357",
+    "lon": "101.7247871"
+  },
+  {
+    "id": "partner:22:12",
+    "partner_id": "partner:22",
+    "name": "Setapak Central",
+    "address": "Setapak Central Lot S-15, 2nd Floor, Setapak Central, 67, Jalan Taman Ibu Kota, Taman Danau Kota, Setapak, 53300 Kuala Lumpur. +60 3-4143 8869",
+    "lat": "3.2045231",
+    "lon": "101.7202131"
+  },
+  {
+    "id": "partner:22:13",
+    "partner_id": "partner:22",
+    "name": "Lotus’s Kepong",
+    "address": "Lotus’s Kepong SB 08, Lotus's Kepong, No 3, Jalan 7A/62A, Bandar Manjalara, 52200 Kuala Lumpur. +60 3-6730 9735",
+    "lat": "3.193084",
+    "lon": "101.6331197"
+  },
+  {
+    "id": "partner:23:0",
+    "partner_id": "partner:23",
+    "name": "Plaza Low Yat",
+    "address": "Plaza Low Yat Lot 3.12, 3rd Floor, Plaza Low Yat, Off Jln Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "lat": "3.1441149",
+    "lon": "101.7097693"
+  },
+  {
+    "id": "partner:24:0",
+    "partner_id": "partner:24",
+    "name": "C-Zone MegaStore @ Digital Mall",
+    "address": "C-Zone MegaStore @ Digital Mall Lot 2.01 - 2.07, 2nd Floor, Digital Mall, Section 14, 46100 Petaling Jaya, Selangor",
+    "lat": "3.1091305",
+    "lon": "101.6363548"
+  },
+  {
+    "id": "partner:24:1",
+    "partner_id": "partner:24",
+    "name": "C-Zone @ Low Yat Plaza",
+    "address": "C-Zone @ Low Yat Plaza 2-042, 043 & 045, 7, Jln Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+    "lat": "3.1441149",
+    "lon": "101.7097693"
+  },
+  {
+    "id": "partner:25:0",
+    "partner_id": "partner:25",
+    "name": "KL - Sunway Wangsa Mall",
+    "address": "KL - Sunway Wangsa Mall Lot 1-02A, First Floor, Sunway Wangsa Mall, Jalan Perdana 1, Bandar Wangsa Maju 53000 Kuala Lumpur +60 3-41311109",
+    "lat": "3.1978981",
+    "lon": "101.7409103"
+  },
+  {
+    "id": "partner:25:1",
+    "partner_id": "partner:25",
+    "name": "KL - Plaza Low Yat",
+    "address": "KL - Plaza Low Yat 3-001, 3rd Floor, Plaza Low Yat, Off Jalan Bukit Bintang 55100 Kuala Lumpur +60 3-21459722",
+    "lat": "3.1441149",
+    "lon": "101.7097693"
+  },
+  {
+    "id": "partner:25:2",
+    "partner_id": "partner:25",
+    "name": "Petaling Jaya - Digital Mall",
+    "address": "Petaling Jaya - Digital Mall Lot 1-05, First Floor, Digital Mall, No. 2, Jalan 14/20, Section 14 46100 Petaling Jaya +60 3-79566888",
+    "lat": "3.1091305",
+    "lon": "101.6363548"
+  },
+  {
+    "id": "partner:25:3",
+    "partner_id": "partner:25",
+    "name": "Johor - Mid Valley Southkey",
+    "address": "Johor - Mid Valley Southkey S-044, 2nd Floor, Mid Valley Southkey, No1, Persiaran Southkey 1, 80150 Johor Bahru. +60 7-3362078",
+    "lat": "1.5001538",
+    "lon": "103.7779631"
+  },
+  {
+    "id": "partner:25:4",
+    "partner_id": "partner:25",
+    "name": "Johor - Plaza Pelangi",
+    "address": "Johor - Plaza Pelangi Lot 3.29 & 3.29A, Level 3, Plaza Pelangi, Jalan Sri Pelangi, Taman Pelangi 80400 Johor Bahru, Johor. +60 7-3360007",
+    "lat": "1.4801031",
+    "lon": "103.7649986"
+  },
+  {
+    "id": "partner:25:5",
+    "partner_id": "partner:25",
+    "name": "ICT Komtar",
+    "address": "ICT Komtar L3-40, 41, 42, 42A, 43, & 45, Level 3, ICT Komtar, Unit No. 1B & 1D, 1.01-4.01, Komtar, Jalan Penang, 10000, Georgetown, Penang +60 4-3732192",
+    "lat": "5.4145872",
+    "lon": "100.3297474"
+  },
+  {
+    "id": "partner:25:6",
+    "partner_id": "partner:25",
+    "name": "Ipoh Parade",
+    "address": "Ipoh Parade Unit T07 & T08, Third Floor, Ipoh Parade, No. 105 Jalan Sultan Abdul Jalil 30450, Greentown, Ipoh Perak +60 5-2460637",
+    "lat": "4.5959134",
+    "lon": "101.0900944"
+  },
+  {
+    "id": "partner:25:7",
+    "partner_id": "partner:25",
+    "name": "Melaka - AEON Mall Bandaraya Melaka",
+    "address": "Melaka - AEON Mall Bandaraya Melaka Lot S11-S12 2nd Floor, No. 2 Jalan Legenda, Taman Lagenda 75400 Melaka +60 6-2889641",
+    "lat": "2.2149072",
+    "lon": "102.2458511"
+  },
+  {
+    "id": "partner:25:8",
+    "partner_id": "partner:25",
+    "name": "Mayang Mall",
+    "address": "Mayang Mall Lot No L4-27, L4-28, L4-29, Fourth Floor, Mayang Mall, 1, Persiaran Mayang, Kampung Surau Besar, 20000 Kuala Terengganu, Terengganu",
+    "lat": "5.336896",
+    "lon": "103.1435842"
+  },
+  {
+    "id": "partner:25:9",
+    "partner_id": "partner:25",
+    "name": "Miri - Bintang Megamall",
+    "address": "Miri - Bintang Megamall Lot 3.36-37, 3rd Floor, Bintang MegaMall, Lot 1657, Block 9, MCLD Jalan Miri-Pujut 98000 Miri, Sarawak, Malaysia. +60 11-45389912",
+    "lat": "4.3975262",
+    "lon": "113.9936002"
+  },
+  {
+    "id": "partner:25:10",
+    "partner_id": "partner:25",
+    "name": "Miri - Boulevard Shopping Mall",
+    "address": "Miri - Boulevard Shopping Mall Lot SF 1.28, 2nd Floor, Boulevard Shopping Mall, Jalan Miri-Pujut 98000 Miri, Sarawak, Malaysia. +60 85-439732",
+    "lat": "4.415526",
+    "lon": "114.0128863"
+  },
+  {
+    "id": "partner:25:11",
+    "partner_id": "partner:25",
+    "name": "Bintulu - The Spring Shopping Mall",
+    "address": "Bintulu - The Spring Shopping Mall F30-F32, 1st Floor, The Spring Shopping Mall, Jalan Tun Abdul Razak 97000 Bintulu, Sarawak +60 86-312315",
+    "lat": "3.181157",
+    "lon": "113.0344207"
+  },
+  {
+    "id": "partner:25:12",
+    "partner_id": "partner:25",
+    "name": "Sibu - Delta Mall",
+    "address": "Sibu - Delta Mall SF01 & 20, Delta Mall, Lot 2831, Jalan Pedada 96000 Sibu, Sarawak, Malaysia. +60 84-313237",
+    "lat": "2.3119591",
+    "lon": "111.8467262"
+  },
+  {
+    "id": "partner:25:13",
+    "partner_id": "partner:25",
+    "name": "Kuching - OneTJ ICT Shopping Complex",
+    "address": "Kuching - OneTJ ICT Shopping Complex Unit 1.6 & 1.7, OneTJ Shopping Complex, Jalan Stutong 93350 Kuching, Malaysia. +60 82-577503",
+    "lat": "1.5064521",
+    "lon": "110.3749452"
+  },
+  {
+    "id": "partner:25:14",
+    "partner_id": "partner:25",
+    "name": "Kuching - The Summer Shopping Mall",
+    "address": "Kuching - The Summer Shopping Mall First Floor, The Summer Shopping Mall, Lot 7455, Block 1, Samarahan Land District, Jalan Dato Mohd. Musa 94300, Samarahan, Kuching +60 82-659573",
+    "lat": "1.4547136",
+    "lon": "110.4593988"
+  },
+  {
+    "id": "partner:25:15",
+    "partner_id": "partner:25",
+    "name": "Kuching - The Spring Shopping Mall",
+    "address": "Kuching - The Spring Shopping Mall Sublot 151, The Spring Shopping Mall, Lot 7196, Section 64, KTLD, Jalan Simpang Tiga 93350 Kuching, Malaysia +60 82-246503",
+    "lat": "1.535362",
+    "lon": "110.3578495"
+  },
+  {
+    "id": "partner:25:16",
+    "partner_id": "partner:25",
+    "name": "Kuching - Vivacity Megamall",
+    "address": "Kuching - Vivacity Megamall L2-030 & L2-031, 2nd Floor Vivacity Megamall, Jalan Wan Alwi 93350 Kuching, Malaysia. +60 82-263776",
+    "lat": "1.5267617",
+    "lon": "110.3697899"
+  },
+  {
+    "id": "partner:25:17",
+    "partner_id": "partner:25",
+    "name": "Kuching - Aeon Mall Kuching Central",
+    "address": "Kuching - Aeon Mall Kuching Central F05-06, 1st Floor, AEON Mall Kuching Central, Jalan Tun Ahmad Zaidi Adruce, 93200 Kuching, Sarawak. +60 82-239059",
+    "lat": "1.5275467",
+    "lon": "110.3371752"
+  },
+  {
+    "id": "partner:25:18",
+    "partner_id": "partner:25",
+    "name": "Kuching - Plaza Merdeka",
+    "address": "Kuching - Plaza Merdeka L1-59, First Floor, Plaza Merdeka Shopping Centre, 88 Pearl Street, 93000 Kuching, Sarawak. +60 82-751092",
+    "lat": "1.5581361",
+    "lon": "110.3439922"
+  },
+  {
+    "id": "partner:25:19",
+    "partner_id": "partner:25",
+    "name": "Kuching - Wisma Saberkas",
+    "address": "Kuching - Wisma Saberkas Lot 2.31 & 2.15, Wisma Saberkas, Jalan Tun Abang Haji Openg 93000 Kuching, Sarawak, Malaysia. +60 82-422939",
+    "lat": "1.5371692",
+    "lon": "110.3401903"
+  },
+  {
+    "id": "partner:25:20",
+    "partner_id": "partner:25",
+    "name": "Beaufort",
+    "address": "Beaufort 103, Lor Beaufort Sentral1, Pekan Beaufort, 89800 Beaufort, Sabah, Malaysia",
+    "lat": "5.3533624",
+    "lon": "115.7335581"
+  },
+  {
+    "id": "partner:25:21",
+    "partner_id": "partner:25",
+    "name": "Penampang",
+    "address": "Penampang Lot 1, Kg Tunoh, Jalan Penampang, Penampang 88200 Dongongon, Sabah. +60 16-6078979",
+    "lat": "5.915526",
+    "lon": "116.0982627"
+  },
+  {
+    "id": "partner:25:22",
+    "partner_id": "partner:25",
+    "name": "Keningau",
+    "address": "Keningau Lot 18, Ground Floor, Adika Commercial Complex, 89008 Keningau, Sabah. +60 8-7332918",
+    "lat": "5.3348649",
+    "lon": "116.1502964"
+  },
+  {
+    "id": "partner:25:23",
+    "partner_id": "partner:25",
+    "name": "Tawau",
+    "address": "Tawau TB 4319, Ground Floor, Block 31, Fajar Complex 91000 Tawau, Sabah. +60 89-776262",
+    "lat": "4.2464588",
+    "lon": "117.8897125"
+  },
+  {
+    "id": "partner:25:24",
+    "partner_id": "partner:25",
+    "name": "Kota Marudu",
+    "address": "Kota Marudu Lot 6, Grd Floor Pekan Goshen 89100 Kota Marudu +60 88-663508",
+    "lat": "6.4945099",
+    "lon": "116.7607489"
+  },
+  {
+    "id": "partner:25:25",
+    "partner_id": "partner:25",
+    "name": "Kota Kinabalu - Karamunsing Complex",
+    "address": "Kota Kinabalu - Karamunsing Complex Lot 3.51, 3rd Floor, Karamunsing Complex 88300 Kota Kinabalu, Sabah. +60 88-235330",
+    "lat": "5.970963",
+    "lon": "116.0752334"
+  },
+  {
+    "id": "partner:26:0",
+    "partner_id": "partner:26",
+    "name": "Eco Ardence — Setia Alam",
+    "address": "Eco Ardence — Setia Alam 45, Jalan Eco Ardence C U12/36C Ardence Crest, Eco Ardence Seksyen U12 Setia Alam, Ardence Crest, 40170 Shah Alam, Selangor",
+    "lat": "3.0875801",
+    "lon": "101.476459"
+  },
+  {
+    "id": "partner:27:0",
+    "partner_id": "partner:27",
+    "name": "Brightstar Computer Mega Store — Plaza Low Yat",
+    "address": "Brightstar Computer Mega Store — Plaza Low Yat 4-048, 4th Floor, Plaza Low Yat, Jalan Bintang, Bukit Bintang Central",
+    "lat": "3.1441149",
+    "lon": "101.7097693"
+  },
+  {
+    "id": "partner:27:1",
+    "partner_id": "partner:27",
+    "name": "Brightstar Computer Mega Store — IOI City Mall",
+    "address": "Brightstar Computer Mega Store — IOI City Mall L2-228, IOI City Mall East, 62502 Putrajaya, Selangor",
+    "lat": "2.9677947",
+    "lon": "101.7160002"
+  },
+  {
+    "id": "partner:27:2",
+    "partner_id": "partner:27",
+    "name": "Brightstar Computer Mega Store — Vivacity Megamall",
+    "address": "Brightstar Computer Mega Store — Vivacity Megamall Lot 3-029, Vivacity Megamall, Kuching, Sarawak",
+    "lat": "1.5267617",
+    "lon": "110.3697899"
+  },
+  {
+    "id": "partner:27:3",
+    "partner_id": "partner:27",
+    "name": "Brightstar Computer Leisure Mall",
+    "address": "Brightstar Computer Leisure Mall L1-28A & 28B, Level 1, Cheras Leisure Mall, Jalan Manis 6, Taman Bukit Segar, 56100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "lat": "3.0908725",
+    "lon": "101.7423126"
+  },
+  {
+    "id": "partner:28:0",
+    "partner_id": "partner:28",
+    "name": "TMT Megastore — Mid Valley Megamall",
+    "address": "TMT Megastore — Mid Valley Megamall Lot S-049 – S-050, 2nd Floor, Mid Valley Megamall, Lingkaran Syed Putra, Mid Valley City, 59200 Kuala Lumpur. +60 3-2201 3429",
+    "lat": "3.1176552",
+    "lon": "101.6773741"
+  },
+  {
+    "id": "partner:28:1",
+    "partner_id": "partner:28",
+    "name": "TMT Megastore — Plaza Low Yat",
+    "address": "TMT Megastore — Plaza Low Yat L2-068 & 068A, Second Floor, Plaza Low Yat, Off Jalan Bukit Bintang, 55100 Kuala Lumpur. +60 3-2710 8695",
+    "lat": "3.1441149",
+    "lon": "101.7097693"
+  },
+  {
+    "id": "partner:28:2",
+    "partner_id": "partner:28",
+    "name": "TMT — NU Sentral",
+    "address": "TMT — NU Sentral Lot L2.19 & L2.20, 2nd Floor, Jalan Tun Sambanthan, Brickfields, 50470 Kuala Lumpur. +60 3-2276 2832",
+    "lat": "3.1332821",
+    "lon": "101.6869945"
+  },
+  {
+    "id": "partner:28:3",
+    "partner_id": "partner:28",
+    "name": "TMT Megastore — Pavillion Bukit Jalil 2",
+    "address": "TMT Megastore — Pavillion Bukit Jalil 2 Lot 4.28.00, Level 4, Pavillion Bukit Jalil 2, Persiaran Bukit Jalil 8, Bandar Bukit Jalil, 57000 Kuala Lumpur. +60 3-8082 4561",
+    "lat": "3.051063",
+    "lon": "101.6705112"
+  },
+  {
+    "id": "partner:28:4",
+    "partner_id": "partner:28",
+    "name": "TMT — Sunway Wangsa Mall",
+    "address": "TMT — Sunway Wangsa Mall Lot L1-18, 1-19 & 1-20A, 1st Floor, Sunway Wangsa Mall, Wangsa Avenue, Jalan Wangsa Perdana 1, Wangsa Maju, 53300 Kuala Lumpur. +60 3-4144 4720",
+    "lat": "3.1978981",
+    "lon": "101.7409103"
+  },
+  {
+    "id": "partner:28:5",
+    "partner_id": "partner:28",
+    "name": "TMT Store — TAR UMT Arena",
+    "address": "TMT Store — TAR UMT Arena Lot 4 (TA/S09A & TA/S09B), Tunku Abdul Rahman University of Management & Technology (TAR UMT Arena), Main Campus, Jalan Genting Kelang, Setapak, 53300 Kuala Lumpur. +60 10-306 8632",
+    "lat": "3.2160802",
+    "lon": "101.7286486"
+  },
+  {
+    "id": "partner:28:6",
+    "partner_id": "partner:28",
+    "name": "TMT — Setia City Mall",
+    "address": "TMT — Setia City Mall Lot L1.12, 1st Floor, Setia City Mall, No.7, Persiaran Setia Dagang, Bandar Setia Alam, Seksyen U13, 40170 Shah Alam, Selangor. +60 3-3359 0596",
+    "lat": "3.109763",
+    "lon": "101.4599081"
+  },
+  {
+    "id": "partner:28:7",
+    "partner_id": "partner:28",
+    "name": "TMT — AEON Mall Rawang",
+    "address": "TMT — AEON Mall Rawang Lot F40 & 41, AEON Rawang Anggun Shopping Centre, Persiaran Anggun, Taman Anggun, 48000 Rawang, Selangor. +60 3-6420 9325",
+    "lat": "3.3166467",
+    "lon": "101.5364952"
+  },
+  {
+    "id": "partner:28:8",
+    "partner_id": "partner:28",
+    "name": "TMT — Aeon Mall Cheras Selatan",
+    "address": "TMT — Aeon Mall Cheras Selatan Lot F02, 1st Floor Shopping Centre Aeon, Lebuh Tun Hussein Onn, 43200 Balakong, Selangor. +60 3-9544 1739",
+    "lat": "3.0332544",
+    "lon": "101.764479"
+  },
+  {
+    "id": "partner:28:9",
+    "partner_id": "partner:28",
+    "name": "TMT — PJ Damansara Uptown",
+    "address": "TMT — PJ Damansara Uptown No. 62, Jalan SS21/1, Damansara Utama, 47400 Petaling Jaya, Selangor. +60 3-7732 4649",
+    "lat": "3.1366632",
+    "lon": "101.6206568"
+  },
+  {
+    "id": "partner:28:10",
+    "partner_id": "partner:28",
+    "name": "TMT Megastore — Sunway Pyramid",
+    "address": "TMT Megastore — Sunway Pyramid Lot F1.85A, 1st Floor, Sunway Pyramid Mall, Bandar Sunway, 47500 Subang Jaya, Selangor. +60 3-5612 8311",
+    "lat": "3.0724851",
+    "lon": "101.60655"
+  },
+  {
+    "id": "partner:28:11",
+    "partner_id": "partner:28",
+    "name": "TMT Megastore — IOI City Mall",
+    "address": "TMT Megastore — IOI City Mall L2-67 & 68, Second Floor, IOI City Mall, Lebuh IRC, IOI Resort City, 62502 Putrajaya. +60 3-8959 8853",
+    "lat": "2.9677947",
+    "lon": "101.7160002"
+  },
+  {
+    "id": "partner:28:12",
+    "partner_id": "partner:28",
+    "name": "TMT Megastore — Gurney Plaza",
+    "address": "TMT Megastore — Gurney Plaza Lot No. 16/19/21/22/23/23B, Level 3, Persiaran Gurney, 10250 Pulau Pinang, Malaysia. +60 4-604 6906",
+    "lat": "5.437297",
+    "lon": "100.3094027"
+  },
+  {
+    "id": "partner:28:13",
+    "partner_id": "partner:28",
+    "name": "TMT — ICT @ Komtar Digital Mall",
+    "address": "TMT — ICT @ Komtar Digital Mall Lot L 3-32C, 33 & 06B, 3rd Floor, ICT Digital Mall Komtar, Unit No.1B & 1D, 1.01-4.01, Komtar Penang, Jalan Penang, 10000 Pulau Pinang. +60 4-295 4243",
+    "lat": "5.4145872",
+    "lon": "100.3297474"
+  },
+  {
+    "id": "partner:28:14",
+    "partner_id": "partner:28",
+    "name": "TMT — KB Mall",
+    "address": "TMT — KB Mall Lot 3.18 & 3.19, 3rd Floor, Lot 1-888 KB Mall, Jalan Hamzah, 15050 Kota Bharu, Kelantan. +60 9-744 9332",
+    "lat": "6.1175489",
+    "lon": "102.2410329"
+  },
+  {
+    "id": "partner:28:15",
+    "partner_id": "partner:28",
+    "name": "TMT — Mesra Mall",
+    "address": "TMT — Mesra Mall Lot 16, Ground Floor, Mesra Mall, 6490, Jalan Kemaman-Dungun, 24210 Kemasek, Terengganu. +60 9-864 0532",
+    "lat": "4.4405938",
+    "lon": "103.4474897"
+  },
+  {
+    "id": "partner:28:16",
+    "partner_id": "partner:28",
+    "name": "TMT — Berjaya Megamall",
+    "address": "TMT — Berjaya Megamall Lot G.13 & 13A, Ground Floor, Berjaya Megamall, Jalan Tun Ismail, 25000 Kuantan, Pahang. +60 9-531 5892",
+    "lat": "3.8153965",
+    "lon": "103.3303579"
+  },
+  {
+    "id": "partner:28:17",
+    "partner_id": "partner:28",
+    "name": "TMT — AEON Mall Seremban 2",
+    "address": "TMT — AEON Mall Seremban 2 Lot F36, 1st Floor, AEON Seremban 2 Shopping Centre, No.112 Jalan Persiaran S2 B1, Seremban 2, 70300 Seremban, Negeri Sembilan. +60 6-775 1005",
+    "lat": "2.7018238",
+    "lon": "101.9118853"
+  },
+  {
+    "id": "partner:28:18",
+    "partner_id": "partner:28",
+    "name": "TMT — Seremban Gateway",
+    "address": "TMT — Seremban Gateway No 5-L1, Gerbang Seremban, Off Jalan Sungai Ujong, 70200 Seremban, Negeri Sembilan. +60 6-764 9686",
+    "lat": "2.7168605",
+    "lon": "101.9197437"
+  },
+  {
+    "id": "partner:28:19",
+    "partner_id": "partner:28",
+    "name": "TMT Megastore — Mid Valley Southkey",
+    "address": "TMT Megastore — Mid Valley Southkey Lot S-031 & S-032, 2nd Floor, The Mall, Mid Valley City Megamall Southkey, No.1, Persiaran Southkey 1, 80150 Johor Bahru. +60 7-338 4132",
+    "lat": "1.5001538",
+    "lon": "103.7779631"
+  },
+  {
+    "id": "partner:28:20",
+    "partner_id": "partner:28",
+    "name": "TMT — Vivacity Megamall",
+    "address": "TMT — Vivacity Megamall Lot L2-041, Level 2, Vivacity Megamall, Jalan Wan Alwi, 93350 Kuching, Sarawak. +60 82-263 932",
+    "lat": "1.5267617",
+    "lon": "110.3697899"
+  },
+  {
+    "id": "partner:29:0",
+    "partner_id": "partner:29",
+    "name": "Impulse Gaming — KL Flagship Store",
+    "address": "Impulse Gaming — KL Flagship Store Lot 4, Jln Sungai Besi, Chan Sow Lin, 57100 Sungai Besi, Wilayah Persekutuan Kuala Lumpur",
+    "lat": "3.1217472",
+    "lon": "101.7088347"
+  },
+  {
+    "id": "partner:29:1",
+    "partner_id": "partner:29",
+    "name": "Impulse Gaming — Sunway Branch",
+    "address": "Impulse Gaming — Sunway Branch 79, Jalan PJS 11/9, Bandar Sunway, 47500 Petaling Jaya, Selangor",
+    "lat": "3.0657229",
+    "lon": "101.6031344"
+  },
+  {
+    "id": "partner:29:2",
+    "partner_id": "partner:29",
+    "name": "Impulse Gaming — Mid Valley KL",
+    "address": "Impulse Gaming — Mid Valley KL Lot T Level 3M Mezzanine Unit, T048, Lingkaran Syed Putra, Mid Valley City, 59200 Kuala Lumpur, Wilayah Persekutuan",
+    "lat": "3.1176552",
+    "lon": "101.6773741"
+  },
+  {
+    "id": "partner:29:3",
+    "partner_id": "partner:29",
+    "name": "Impulse Gaming @ Ombak KLCC",
+    "address": "Impulse Gaming @ Ombak KLCC L1-01-01, 1st Floor, Plaza Ombak KLCC, 20, Persiaran KLCC, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+    "lat": "3.1563542",
+    "lon": "101.7177924"
+  },
+  {
+    "id": "partner:29:4",
+    "partner_id": "partner:29",
+    "name": "Impulse Gaming — IOI City Mall Flagship Store",
+    "address": "Impulse Gaming — IOI City Mall Flagship Store L2-220B 2nd Floor, IOI City Mall, Lbh IRC, 43000 Putrajaya, Selangor",
+    "lat": "2.9677947",
+    "lon": "101.7160002"
+  },
+  {
+    "id": "partner:29:5",
+    "partner_id": "partner:29",
+    "name": "Impulse Gaming — IOI Mall Damansara",
+    "address": "Impulse Gaming — IOI Mall Damansara Lot 2F-79 2A, Persiaran Surian, Tropicana Indah, Kota Damansara, 47810 Petaling Jaya, Selangor",
+    "lat": "3.1487454",
+    "lon": "101.5947478"
+  },
+  {
+    "id": "partner:29:6",
+    "partner_id": "partner:29",
+    "name": "Impulse Gaming — 3 Damansara",
+    "address": "Impulse Gaming — 3 Damansara GF-22A, 3, Damansara Shopping Centre, 3, Jalan SS20/27, Damansara Intan, 47400 Petaling Jaya, Selangor",
+    "lat": "3.1304687",
+    "lon": "101.6270977"
+  },
+  {
+    "id": "partner:29:7",
+    "partner_id": "partner:29",
+    "name": "Impulse Gaming — IOI Mall Puchong",
+    "address": "Impulse Gaming — IOI Mall Puchong LOT S-W01-E 2ND FLOOR, BATU 9, Jalan Puchong, Bandar Puchong Jaya, 47170 Puchong, Selangor",
+    "lat": "3.0449441",
+    "lon": "101.6180882"
+  },
+  {
+    "id": "partner:29:8",
+    "partner_id": "partner:29",
+    "name": "Impulse Gaming — Seremban Branch",
+    "address": "Impulse Gaming — Seremban Branch Lot G-2A, Seremban Gateway, Jalan Labu, 70200 Seremban, Negeri Sembilan",
+    "lat": "2.7168605",
+    "lon": "101.9197437"
+  },
+  {
+    "id": "partner:29:9",
+    "partner_id": "partner:29",
+    "name": "Impulse Gaming — JB HQ",
+    "address": "Impulse Gaming — JB HQ 55, Jalan Serampang, Taman Sri Tebrau, 80050 Johor Bahru, Johor Darul Ta’zim",
+    "lat": "1.4847636",
+    "lon": "103.7713484"
+  },
+  {
+    "id": "partner:29:10",
+    "partner_id": "partner:29",
+    "name": "Impulse Gaming — Tarcor Park Flagship Store",
+    "address": "Impulse Gaming — Tarcor Park Flagship Store 188-21 Jalan Persisiran Pantai, Jalan Limbongan, Limbongan, 75200 Klebang, Malacca",
+    "lat": "2.2019014",
+    "lon": "102.2232466"
+  },
+  {
+    "id": "partner:29:11",
+    "partner_id": "partner:29",
+    "name": "Impulse Gaming — Ipoh Branch",
+    "address": "Impulse Gaming — Ipoh Branch 165, 167, Jalan Sultan Idris Shah, Taman Jubilee, 30300 Ipoh, Perak",
+    "lat": "4.5964656",
+    "lon": "101.0850037"
+  },
+  {
+    "id": "partner:29:12",
+    "partner_id": "partner:29",
+    "name": "Impulse Gaming — Southkey Midvalley Flagship Store",
+    "address": "Impulse Gaming — Southkey Midvalley Flagship Store T-001, Level 3, Mid Valley Southkey, 1, Persiaran Southkey 1, Kota Southkey, 80150 Johor Bahru, Johor Darul Ta’zim",
+    "lat": "1.5001538",
+    "lon": "103.7779631"
+  },
+  {
+    "id": "partner:29:13",
+    "partner_id": "partner:29",
+    "name": "Impulse Gaming — Paradigm Mall JB",
+    "address": "Impulse Gaming — Paradigm Mall JB Lot 56, Level 4, Paradigm Mall, 4, Skudai Hwy, Taman Bukit Mewah, 81200 Johor Bahru, Johor",
+    "lat": "1.5161754",
+    "lon": "103.6852555"
+  },
+  {
+    "id": "partner:29:14",
+    "partner_id": "partner:29",
+    "name": "Impulse Gaming — Penang Branch",
+    "address": "Impulse Gaming — Penang Branch 2, Jalan Kek Chuan, George Town, 10400 George Town, Pulau Pinang",
+    "lat": "5.41504",
+    "lon": "100.32462"
+  }
+]
